@@ -16,9 +16,8 @@
 
 #pragma once
 
+#define MOUSEKEY_INERTIA
 
-#define MANUFACTURER "Samsung"
-#define PRODUCT "Samsung Fridge RS6HA"
 #ifdef RGB_MATRIX_ENABLE
 /* RGB Matrix driver configuration */
 #    define DRIVER_COUNT 2

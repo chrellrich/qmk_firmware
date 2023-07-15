@@ -1,4 +1,7 @@
 {
+    
+    "keyboard_name": "Samsung Fridge RS6HA",
+    "manufacturer": "Samsung",
     "usb": {
     	"pid": "0x0220",
     	"device_version": "1.0.0"
