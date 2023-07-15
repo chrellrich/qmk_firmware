@@ -6,4 +6,6 @@ SRC += matrix.c
 
 include keyboards/keychron/bluetooth/bluetooth.mk
 
-
+TAP_DANCE_ENABLE = yes
+KEY_LOCK_ENABLE = yes
+DYNAMIC_MACRO_ENABLE = yes
