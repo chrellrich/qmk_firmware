@@ -17,8 +17,8 @@
 #pragma once
 
 
-#define MANUFACTURER Samsung
-#define PRODUCT Samsung Fridge RS6HA
+#define MANUFACTURER "Samsung"
+#define PRODUCT "Samsung Fridge RS6HA"
 #ifdef RGB_MATRIX_ENABLE
 /* RGB Matrix driver configuration */
 #    define DRIVER_COUNT 2
